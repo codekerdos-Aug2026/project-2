@@ -1,1 +1,4 @@
 this is inside example.txt file
+
+
+this is the line added
