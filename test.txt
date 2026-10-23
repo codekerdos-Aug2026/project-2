@@ -3,21 +3,3 @@ This line is being edited by Aniruddh..!!
 this line added by the qalid from devops team
 Edited by Nehal
 This line added by Arpit!
-
-edited in new feature branch login
-added
-
-updated
-
-
-added in master
-created in login branch
-added again
-added again
-
-
-added in master first time
-
-added in master after merge
-
-after rebase
